@@ -8,22 +8,10 @@
 
 ###
 
-### 🛠 Skills
-
-**HTML5**  
-<div style="background: #ddd; border-radius: 10px; width: 300px;">
-  <div style="background: #E34F26; height: 20px; width: 90%; border-radius: 10px;"></div>
-</div> 90%
-
-**CSS3**  
-<div style="background: #ddd; border-radius: 10px; width: 300px;">
-  <div style="background: #1572B6; height: 20px; width: 85%; border-radius: 10px;"></div>
-</div> 85%
-
-**JavaScript**  
-<div style="background: #ddd; border-radius: 10px; width: 300px;">
-  <div style="background: #F7DF1E; height: 20px; width: 80%; border-radius: 10px;"></div>
-</div> 80%
+<div align="left">
+ <!--   <img src="https://github-readme-stats.vercel.app/api?username=EkiZR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EkiZR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>  
 
 ###
 
